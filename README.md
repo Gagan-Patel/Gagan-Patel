@@ -1,5 +1,5 @@
 <h1 align="center">I'm Gagan Patel</h1>
-<h3 align="center">Looking to start my career in field of Information Technology, where I can use my skills of programming learnt through internship to contribute towards growth and development of organization, while enhancing my skills further.</h3>
+<h3 align="center">Really passionate about Artificial Intelligence and Natural Language Processing. Looking to advance my career in AI.</h3>
 
 - 🔭 I’m currently working on **Chat-Bot app**
 
