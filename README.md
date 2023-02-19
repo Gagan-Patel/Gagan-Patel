@@ -1,8 +1,6 @@
 <h1 align="center">I'm Gagan Patel</h1>
 <h3 align="center">Really passionate about Artificial Intelligence and Natural Language Processing. Looking to advance my career in AI.</h3>
 
-- 🔭 I’m currently working on **Chat-Bot app**
-
 - 🌱 I’m currently learning **Artificial intelligence in Azure**
 
 - 📫 How to reach me **gagankpatel2@gmail.com**
